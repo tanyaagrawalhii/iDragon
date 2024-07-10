@@ -61,12 +61,11 @@ body{
 }
 
 #result{
-    height: 200px;
-    width: 600px;
-    /* background-color:aqua; */
+    height: 500px;
+    width: 1200px;
     margin: 3rem auto;
     padding: 40px 50px;
-    font-size: 30px;
+    font-size: 70px;
     text-align: center;
     border-radius: 20px;
     display: none;
@@ -74,7 +73,7 @@ body{
 
 #score{
     font-size: 2.2rem;
-    color: brown;
+    color:rgb(74, 74, 74) ;
     justify-content: center;
 }
 #btn{
@@ -84,9 +83,7 @@ body{
     background-color: black;
     color: cyan;
     font-size: 25px;
-    
     margin-top: 10px;
-    
     cursor: pointer;
     text-transform: uppercase;
 } 
